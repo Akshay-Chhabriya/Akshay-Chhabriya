@@ -1,4 +1,3 @@
-<center>About Me
 👋 Yo, I’m Akshay  
 👀 I’m interested in Machine Learning, AI, Data Science, Data Structures, and Python.  
 🌱 I’m currently learning GenAI and Agentic AI.  
